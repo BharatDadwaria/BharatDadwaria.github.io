@@ -12,7 +12,7 @@ location: Central University of Rajasthan , India
 
 #seo plugin
 plugins: 
-  -jekyll-seo-tag
+  - jekyll-seo-tag
 
 
 ## Social Profiles
