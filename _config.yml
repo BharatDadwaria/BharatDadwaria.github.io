@@ -11,7 +11,8 @@ title: 'Integrated M.Sc Computer Science Major in AI'  ## your title
 location: Central University of Rajasthan , India
 
 #seo plugin
-plugins: -jekyll-seo-tag
+plugins: 
+  -jekyll-seo-tag
 
 
 ## Social Profiles
