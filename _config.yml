@@ -1,6 +1,6 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
+url: 'https://junlulocky.com'
 baseurl: '/PanelCV' #change it according to your repository name
 
 
@@ -16,12 +16,12 @@ plugins:
 
 
 ## Social Profiles
-facebook: http://www.facebook.com/bharat.dadwaria  ## your facebook account url
-twitter: http://www.twitter.com/@BKDdadwaria  ## your twitter account url
-linkedin: http://www.linkedin.com/in/dadwariabharat  ## your linkedin account url
-github: http://github.com/bkd0385/ #your github account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: https://www.facebook.com/bharat.dadwaria  ## your facebook account url
+twitter: https://www.twitter.com/@BKDdadwaria  ## your twitter account url
+linkedin: https://www.linkedin.com/in/dadwariabharat  ## your linkedin account url
+github: https://github.com/bkd0385/ #your github account url
+dribbble: https://www.dribble.com  ## you dribbble account url
+foursquare: https://www.foursquare.com  ## your foursquare account url
 
 
 
