@@ -7,8 +7,8 @@ baseurl: '/PanelCV' #change it according to your repository name
 
 # Profile information
 yourname: Bharat Dadwaria  ## put your name
-title: 'M.Tech Statistical Computing'  ## your title
-location: Jawaharlal Nehru University, New Delhi, India
+title: 'Sr Computer Vision Research Engineer'  ## your title
+location: Bangalore, India
 
 #seo plugin
 plugins: 
